@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Dakota. I’m a software engineer with a love for helping others. 
+
+My passion for development started through a simple coding course in high school. That passion and love has turned into skills that I use everyday to solve real-world problems. 
+
+Now, I create amazing solutions for people by building full-stack web applications, and I would love to work with you next!
+
